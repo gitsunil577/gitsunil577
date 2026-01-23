@@ -20,7 +20,7 @@ class Sunil:
     def __init__(self):
         self.username = "gitsunil577"
         self.current_role = "B.Tech CSE Student"
-        self.location = "Chennai, Tamil Nadu, India"
+        self.location = "Bhanjanagar, Odisha, India"
         self.currently_learning = ["Full Stack Development", "DSA", "Problem Solving"]
         self.interests = ["Web Development", "App Development", "Competitive Programming"]
         self.goals_2025 = [
