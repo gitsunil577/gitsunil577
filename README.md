@@ -1,7 +1,7 @@
 # 🚀 Hi there, I'm Sunil (@gitsunil577)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;Full+Stack+Developer+in+Training;Problem+Solver+%7C+Code+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;Full+Stack+Developer;Problem+Solver+%7C+Code+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 </p>
 ---
 
