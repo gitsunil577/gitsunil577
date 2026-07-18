@@ -14,7 +14,7 @@ class Sunil:
         self.current_role = "B.Tech CSE Student"
         self.location = "Bhanjanagar, Odisha, India"
         self.currently_learning = ["Full Stack Development", "DSA", "Problem Solving"]
-        self.interests = ["Web Development", "App Development", "Competitive Programming"]
+        self.interests = ["Web Development", "Software Development", "Competitive Programming"]
         self.goals_2025 = [
             "Master Data Structures & Algorithms",
             "Build 10+ real-world projects",
@@ -29,7 +29,7 @@ me = Sunil()
 me.say_hi()
 ```
 
-- 🎓 Currently pursuing **B.Tech in Computer Science**
+- 🎓 Graduate **B.Tech in Computer Science**
 - 🌱 Learning **Full Stack Development** and **Data Structures & Algorithms**
 - ✍️ I enjoy solving algorithmic challenges and building logic-based projects
 - 💞️ Looking to collaborate with friends on innovative college projects
